@@ -1,1 +1,4 @@
-com\example\LionTestException.class
+com\example\FelineTest.class
+com\example\CatTest.class
+com\example\LionParameterizedTest.class
+com\example\LionTest.class
